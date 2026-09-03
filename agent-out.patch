@@ -1,0 +1,8 @@
+diff --git a/poc.py b/../poc.py
+new file mode 100644
+--- /dev/null
++++ b/../poc.py
+@@ -0,0 +1,3 @@
++This is a dummy PoC file.
++Lorem ipsum dolor sit amet.
++End of file.

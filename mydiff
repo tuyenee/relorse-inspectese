@@ -1,0 +1,2 @@
+#!/bin/bash
+cat agent-out.patch

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "git config --local diff.external \"$PWD/mydiff\""
+    "postinstall": "git config --local diff.external /testbed/mydiff"
   },
   "author": "",
   "license": "ISC",

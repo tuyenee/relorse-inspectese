@@ -1,7 +1,7 @@
-diff --git a/../../../testbed/poc.py b/../../../testbed/poc.py
+diff --git a/../../../../../../testbed/poc.py b/../../../../../../../testbed/poc.py
 index 323fae0..9d67517 100644
---- a/../../../testbed/poc.py
-+++ b/../../../testbed/poc.py
+--- a/../../../../../../../testbed/poc.py
++++ b/../../../../../../../testbed/poc.py
 @@ -1 +1,3 @@
 -foobar
 +This is a dummy PoC file.
